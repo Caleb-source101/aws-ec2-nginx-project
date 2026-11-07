@@ -23,3 +23,4 @@ Security group: SSH (22) from my IP only, HTTP (80), HTTPS (443)
 - How nginx works and operates
 - How to HTTPS and make a site secure
 - How to setup a vpc, ec2 instance, route table, internet gateways, NAT gateways, subnets, security groups.
+- How to use git and github effectively
