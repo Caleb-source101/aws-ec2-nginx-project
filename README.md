@@ -14,7 +14,7 @@ Security group: SSH (22) from my IP only, HTTP (80), HTTPS (443)
 ## How to deploy
 1. Launch an Ubuntu EC2 instance in a public subnet with the security group above
 2. SSH in and copy  onto the server
-3. Run: 
+3. Run: setup.sh
 4. Open the instance's public IP in a browser
 
 ## What I learned
